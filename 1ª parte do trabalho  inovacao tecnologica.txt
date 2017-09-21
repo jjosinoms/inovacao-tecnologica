@@ -1,0 +1,25 @@
+a oportunidade de ter acesso ao conteudo 
+de valores de produtos dos super mercados
+de forma automatizada e centralizada com base na
+eficiencia e agilidade.
+
+A plataforma online funciona de acordo com o que
+o usuario solicita, ex: o usuario busca um produto
+e o sistema apresenta o resultado do produto requerido
+comparando os preços
+
+comparação de preços, agilidade, conforto e baixo custo,
+são os principais objetivos estratégicos.
+
+O que é necessário para implementação do sistema é um
+servidor de hospedagem, computadores para manutenção do
+sistema e mão de obra especializada 
+
+O cliente que utilizará fará comparação de preços entre os 
+mercados de sua filial e concorrentes de forma rápida 
+e fácil. Potencializando a divulgação dos produtos e marca
+do mercado.
+
+ 
+
+
